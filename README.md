@@ -1,4 +1,4 @@
 vizX
 ====
 
-a general purpose visualization software project.
+a general purpose visualization software project
